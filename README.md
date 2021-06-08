@@ -13,5 +13,5 @@ Links:-
 
 a.Youtube:
 
-b.Github:
+b.Github:https://github.com/DeoreTrupti/Students-Score-Linear-Regression
 c.Dataset: https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
