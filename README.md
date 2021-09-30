@@ -11,7 +11,7 @@ Submitted By:- **Trupti Balkrishan Deore**
 
 Links:-
 
-a.Youtube:
+a.Youtube:https://youtu.be/_zPQ0UuyfQc
 
 b.Github:https://github.com/DeoreTrupti/Students-Score-Linear-Regression
 
